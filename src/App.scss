@@ -1,0 +1,50 @@
+$primary-color: #555;
+$secondary-color: #D60;
+$primary-color-light: #CCC;
+
+#wrapper {
+  background-color: $primary-color;
+  height: 600px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  button {
+    color: $secondary-color;
+    background-color: $primary-color-light;
+  }
+}
+
+#MapContainer {
+  width: 500px;
+  height: 500px;
+  border: 5px;
+  border-color: orange;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#UI{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border: 3px solid red;
+  padding: 3px;
+  width: 600px;
+  text-align: center;
+}
+
+.DnD{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: 160px;
+  border: 4px dashed gray;
+  padding: 20px;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
