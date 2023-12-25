@@ -1,0 +1,14 @@
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\bin\Debug\net8.0\TaskApp.Data.deps.json
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\bin\Debug\net8.0\TaskApp.Data.runtimeconfig.json
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\bin\Debug\net8.0\TaskApp.Data.dll
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\bin\Debug\net8.0\TaskApp.Data.pdb
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\TaskApp.Data.csproj.AssemblyReference.cache
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\TaskApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\TaskApp.Data.AssemblyInfoInputs.cache
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\TaskApp.Data.AssemblyInfo.cs
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\TaskApp.Data.csproj.CoreCompileInputs.cache
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\TaskApp.Data.dll
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\refint\TaskApp.Data.dll
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\TaskApp.Data.pdb
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\TaskApp.Data.genruntimeconfig.cache
+D:\ZADANIE\backend\TaskApp\TaskApp.Data\obj\Debug\net8.0\ref\TaskApp.Data.dll
